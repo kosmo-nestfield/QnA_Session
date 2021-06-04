@@ -1,4 +1,4 @@
-# 질문글은 본 레포지토리의 Issues 탭에 등록해주시면 됩니다.  
+# 질문글은 본 레포지토리의 Issues 탭에 등록해주세요.
 ## 상세 절차는 아래와 같습니다.  
 > ### 1. 좌측 상단의 "Issues" 탭을 클릭합니다.   
 > ![image](https://user-images.githubusercontent.com/82207645/120770849-8d668700-c559-11eb-8746-e83ea0cad144.png)  
